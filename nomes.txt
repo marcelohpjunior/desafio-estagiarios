@@ -1,8 +1,5 @@
 Escreva seu nome na linha 2:
-<<<<<<< HEAD
 Eduardo Petrili
 Hiago Leres
 Daniela Bonfim
-=======
 Marco Antônio
->>>>>>> marco
